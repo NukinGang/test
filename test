@@ -1,0 +1,7 @@
+print(main_account)
+if optimasation == true then
+  print("true")
+end
+for v in alts do
+print(v)
+end
